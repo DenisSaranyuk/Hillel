@@ -1,0 +1,4 @@
+db.user = student
+db.password = P@ssw0rd
+db.url = jdbc:mysql://217.146.253.33/tram_groundhog_day
+db.driver = com.mysql.jdbc.Driver
